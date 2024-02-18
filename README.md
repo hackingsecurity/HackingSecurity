@@ -3,13 +3,13 @@
   <a href="https://github.com//readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Computer+Engineer+@sudosu;Computer+Science+Student;Competitive+Programmer;Cybersecurity;Pentesting;Ethical+hacking;
 data analyst;IA;IoT;Always+learning+new+things"></a>
 </p>
-<br>
 
-## `<picture><img src = "https://github.com/hackingsecurity/HackingSecurity/blob/main/Images/about_me.gif?raw=true" width = 50px>``</picture>` About me
 
-`<picture>` `<img align="right" src="https://github.com/hackingsecurity/HackingSecurity/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>`
+## <img src = "https://github.com/hackingsecurity/HackingSecurity/blob/main/Images/about_me.gif?raw=true" width = 50px> About me
 
-`<br><br>`
+<img align="right" src="https://github.com/hackingsecurity/HackingSecurity/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
+
+<br><br>
 
 - 🏫 I am a student at [Faculty of Computers &amp; Informatics](https://informatica.ucm.es/) at [Universidad Complutense of Madrid](https://www.ucm.es/).
 - :technologist: I love using tecnology as a solution for every `Problem`.
