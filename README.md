@@ -217,11 +217,11 @@ const userProfile = {
 	<a href="https://github.com/hackingsecurity/Sports-4-Friends">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hackingsecurity&repo=Sports-4-Friends&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/7oSkaaa/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/hackingsecurity/TIS-ELP">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hackinsecurity&repo=TIS-ELP&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/7oSkaaa/CP-Templates">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/hackingsecurity/TP2">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hackingsecurity&repo=TP2" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
