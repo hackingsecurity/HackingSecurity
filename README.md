@@ -6,7 +6,7 @@
 
 <br>
 
-## `<img src = "https://github.com/hackingsecurity/HackingSecurity/blob/main/Images/about_me.gif?raw=true" width = 50px>` About me
+## <img src = "https://github.com/hackingsecurity/HackingSecurity/blob/main/Images/about_me.gif?raw=true" width = 50px> About me
 
 <img align="right" src="https://github.com/hackingsecurity/HackingSecurity/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
 
