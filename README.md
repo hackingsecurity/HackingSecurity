@@ -26,10 +26,7 @@
 
 <br>
 
-
-
-
-## <img src="https://github.com/hackingsecurity/HackingSecurity/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> Connect with me](www.linkedin.com/in/ender-candela-98a334231)
+## <img src="https://github.com/hackingsecurity/HackingSecurity/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> [Connect with me](www.linkedin.com/in/ender-candela-98a334231)
 
 ## 🛠️ My Skills
 
@@ -99,19 +96,12 @@
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
    
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-   
-   <!--
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
-   
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
-     
-    -->
-
     <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
      
     <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
      
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+
 </p>
 
 ###  <img src = "https://github.com/hackingsecurity/HackingSecurity/blob/main/Images/IDEs.gif?raw=true" width = 50px> IDEs
