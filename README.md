@@ -170,7 +170,7 @@ const userProfile = {
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hackingsecurity&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hackingsecurity&theme=tokyonight_duo" alt="hackingsecurity" /></p>
 
 </details>
   
@@ -192,10 +192,8 @@ const userProfile = {
 
 ----
 	
-[![hackingsecurity's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hackingsecurity&theme=github	)](https://github.com/hackingsecurity/github-readme-activity-graph)
-
-[![hackingsecurity's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hackingsecurity&theme=github)](https://github.com/hackingsecurity)
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hackingsecurity&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
+ 
  
 </details>
 
@@ -205,7 +203,6 @@ const userProfile = {
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hackingsecurity&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="hackingsecurity" /></a> </p>
 
-[![@hackingsecurity's Holopin board](https://holopin.io/api/user/board?user=hackingsecurity)](https://holopin.io/@7oskaa)
 	
 </details>
 	
