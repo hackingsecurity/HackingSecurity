@@ -207,7 +207,7 @@ const userProfile = {
 
 <!-- Copy-paste in your Readme.md file -->
 
-<details><summary><h3> :Statistics: Ossingsight hackingsecurity </h3></summary>
+<details><summary><h3> :globe_with_meridians: Ossingsight user:hackingsecurity </h3></summary>
 
 ----
 
