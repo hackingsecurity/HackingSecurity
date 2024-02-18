@@ -212,7 +212,7 @@ const userProfile = {
 <div>
   <p align="center">
 	<a href="https://github.com/7oSkaaa/hackingsecurity/API_TELEGRAM">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hackingsecurity&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hackingsecurity&repo=API_TELEGRAM&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
