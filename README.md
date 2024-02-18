@@ -204,6 +204,29 @@ const userProfile = {
 
 	
 </details>
+
+<!-- Copy-paste in your Readme.md file -->
+
+<details><summary><h3> :Statistics: Ossingsight hackingsecurity </h3></summary>
+
+----
+
+<div>
+  <p align="center">
+
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=32521125" target="_blank" style="display: block" align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=32521125&image_size=auto&color_scheme=dark" width="771" height="auto">
+      <img alt="Dashboard stats of @hackingsecurity" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=32521125&image_size=auto&color_scheme=light" width="771" height="auto">
+    </picture>
+  </a>
+  </p>
+</div>
+
+</details>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
 	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
