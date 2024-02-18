@@ -23,7 +23,7 @@ data analyst;IA;IoT;Always+learning+new+things"></a>
 
 ## `<picture><img src = "https://github.com/hackingsecurity/HackingSecurity/blob/main/Images/about_me.gif?raw=true" width = 50px>``</picture>` About me
 
-`<picture>` `<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>`
+`<picture>` `<img align="right" src="https://github.com/hackingsecurity/HackingSecurity/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>`
 
 `<br><br>`
 
@@ -205,7 +205,7 @@ data analyst;IA;IoT;Always+learning+new+things"></a>
 
 ---
 
-[![7oSkaa&#39;s github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&amp;theme=github	)](https://github.com/hackingsecurity/HackingSecurity/github-readme-activity-graph)
+[![7oSkaa&#39;s github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&amp;theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
 
 </details>
 
