@@ -8,7 +8,7 @@
 -->
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Computer+Enginner+@sudosu;Computer+Science+Student;Competitive+Programmer;Cybersecurity;Pentesting;Ethical+hacking;data+analyst;;IA;IoT;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Computer+Enginner+@sudosu;Computer+Science+Student;Competitive+Programmer;Cybersecurity;Pentesting;Ethical+hacking;Data+analyst;;IA;IoT;Always+learning+new+things)](https://git.io/typing-svg)
 
 <br>
 
@@ -132,6 +132,27 @@
    
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
+
+---
+
+### Download skills information
+
+```javascript
+const userProfile = {
+  pronouns: "He" | "Him",
+  code: ["C", "C++", "JavaScript", "Java", "Python"],
+  askMeAbout: ["frontend development", "competitive programming", "software tools"],
+  technologies: {
+      frontend: ["HTML5", "CSS", "JavaScript"],
+      softwareAndTools: ["Git", "GitHub", "Google Sheets", "Markdown", "Stack Overflow", "JSON", "LaTeX", "Django", "MySQL"],
+      ides: ["Visual Studio Code", "JetBrains Suite", "Atom", "Eclipse IDE"],
+      competitiveProgrammingPlatforms: ["Codeforces"],
+      operatingSystems: ["Linux", "Ubuntu", "Windows"]
+  }
+}
+
+```
+
 
 ---
 
