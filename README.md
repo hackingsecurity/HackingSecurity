@@ -26,7 +26,13 @@
 
 <br>
 
-## <img src="https://github.com/hackingsecurity/HackingSecurity/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> [Connect with me](www.linkedin.com/in/ender-candela-98a334231)
+## <img src="https://github.com/hackingsecurity/HackingSecurity/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> Connect with me
+<p align="center">
+	<a href="https://github.com/hackingsecurity"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/0034628286516"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="www.linkedin.com/in/ender-candela-98a334231"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
 
 ## 🛠️ My Skills
 
@@ -86,8 +92,6 @@
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
    
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-   
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
    
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
