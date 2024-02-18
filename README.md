@@ -194,6 +194,8 @@ const userProfile = {
 	
 [![hackingsecurity's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hackingsecurity&theme=github	)](https://github.com/hackingsecurity/github-readme-activity-graph)
 
+[![hackingsecurity's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hackingsecurity&theme=github)](https://github.com/hackingsecurity)
+
  
 </details>
 
